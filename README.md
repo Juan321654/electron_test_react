@@ -30,6 +30,7 @@ npm installs
 
 ```
 @electron/remote
+electron-is-dev
 ```
 
 npm -D installs:
