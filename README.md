@@ -1,3 +1,4 @@
+`preload.js` has access `window`, `document`, and `node` environment. 
 
 `main` will be where the electron file is.
 
